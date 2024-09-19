@@ -18,7 +18,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/hidal-go/hidalgo/legacy/nosql"
+	"github.com/mcku/hidalgo/legacy/nosql"
 
 	"github.com/cayleygraph/quad"
 

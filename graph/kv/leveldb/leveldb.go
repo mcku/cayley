@@ -18,9 +18,9 @@ import (
 	"os"
 
 	"github.com/cayleygraph/cayley/graph"
-	hkv "github.com/hidal-go/hidalgo/kv"
-	"github.com/hidal-go/hidalgo/kv/flat"
-	"github.com/hidal-go/hidalgo/kv/flat/leveldb"
+	hkv "github.com/mcku/hidalgo/kv"
+	"github.com/mcku/hidalgo/kv/flat"
+	"github.com/mcku/hidalgo/kv/flat/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/opt"
 )
 

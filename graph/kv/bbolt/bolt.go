@@ -18,8 +18,8 @@ import (
 	"os"
 	"path/filepath"
 
-	hkv "github.com/hidal-go/hidalgo/kv"
-	bolt "github.com/hidal-go/hidalgo/kv/bbolt"
+	hkv "github.com/mcku/hidalgo/kv"
+	bolt "github.com/mcku/hidalgo/kv/bbolt"
 
 	"github.com/cayleygraph/cayley/clog"
 	"github.com/cayleygraph/cayley/graph"

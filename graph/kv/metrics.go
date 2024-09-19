@@ -3,7 +3,7 @@ package kv
 import (
 	"context"
 
-	"github.com/hidal-go/hidalgo/kv"
+	"github.com/mcku/hidalgo/kv"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"
 )

@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/hidal-go/hidalgo/legacy/nosql"
+	"github.com/mcku/hidalgo/legacy/nosql"
 	"google.golang.org/protobuf/proto"
 
 	"github.com/cayleygraph/quad"

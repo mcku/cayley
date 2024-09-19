@@ -10,7 +10,7 @@ import (
 	"sync"
 	"testing"
 
-	hkv "github.com/hidal-go/hidalgo/kv"
+	hkv "github.com/mcku/hidalgo/kv"
 	"github.com/stretchr/testify/require"
 
 	"github.com/cayleygraph/quad"

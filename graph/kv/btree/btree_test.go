@@ -19,8 +19,8 @@ import (
 
 	"github.com/cayleygraph/cayley/graph"
 	"github.com/cayleygraph/cayley/graph/kv/kvtest"
-	hkv "github.com/hidal-go/hidalgo/kv"
-	"github.com/hidal-go/hidalgo/kv/kvdebug"
+	hkv "github.com/mcku/hidalgo/kv"
+	"github.com/mcku/hidalgo/kv/kvdebug"
 )
 
 const debug = false

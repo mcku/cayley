@@ -21,8 +21,8 @@ import (
 	"github.com/cayleygraph/cayley/clog"
 	"github.com/cayleygraph/cayley/graph"
 	"github.com/cayleygraph/cayley/graph/kv"
-	hkv "github.com/hidal-go/hidalgo/kv"
-	"github.com/hidal-go/hidalgo/kv/bolt"
+	hkv "github.com/mcku/hidalgo/kv"
+	"github.com/mcku/hidalgo/kv/bolt"
 )
 
 func init() {

@@ -6,7 +6,7 @@ import (
 	"math"
 	"strconv"
 
-	"github.com/hidal-go/hidalgo/legacy/nosql"
+	"github.com/mcku/hidalgo/legacy/nosql"
 
 	"github.com/cayleygraph/cayley/graph"
 	"github.com/cayleygraph/cayley/graph/iterator"

@@ -13,7 +13,7 @@ require (
 	github.com/fsouza/go-dockerclient v1.11.0
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/golang/glog v1.2.1
-	github.com/hidal-go/hidalgo v0.3.0
+	github.com/mcku/hidalgo v0.3.0-mongo-3
 	github.com/jackc/pgx/v5 v5.6.0
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/lib/pq v1.10.9
@@ -139,5 +139,3 @@ require (
 )
 
 replace github.com/Sirupsen/logrus => github.com/Sirupsen/logrus v1.0.1
-
-replace github.com/hidal-go/hidalgo => ../hidalgo
