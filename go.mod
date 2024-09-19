@@ -13,11 +13,11 @@ require (
 	github.com/fsouza/go-dockerclient v1.11.0
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/golang/glog v1.2.1
-	github.com/mcku/hidalgo v0.3.0-mongo-3
 	github.com/jackc/pgx/v5 v5.6.0
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/lib/pq v1.10.9
 	github.com/mattn/go-sqlite3 v1.14.22
+	github.com/mcku/hidalgo v0.3.0-mongo-3
 	github.com/peterh/liner v1.2.2
 	github.com/piprate/json-gold v0.5.0
 	github.com/prometheus/client_golang v1.19.1
