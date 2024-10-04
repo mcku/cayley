@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/hidal-go/hidalgo/kv"
+	"github.com/mcku/hidalgo/kv"
 
 	"github.com/cayleygraph/quad"
 

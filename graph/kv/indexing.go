@@ -26,7 +26,7 @@ import (
 
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/pquads"
-	"github.com/hidal-go/hidalgo/kv/options"
+	"github.com/mcku/hidalgo/kv/options"
 	"google.golang.org/protobuf/proto"
 
 	"github.com/cayleygraph/cayley/clog"
@@ -35,7 +35,7 @@ import (
 	cproto "github.com/cayleygraph/cayley/graph/proto"
 	"github.com/cayleygraph/cayley/graph/refs"
 
-	"github.com/hidal-go/hidalgo/kv"
+	"github.com/mcku/hidalgo/kv"
 	"github.com/prometheus/client_golang/prometheus"
 	boom "github.com/tylertreat/BoomFilters"
 )

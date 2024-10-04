@@ -25,7 +25,7 @@ import (
 
 	"github.com/cayleygraph/quad"
 	"github.com/cayleygraph/quad/pquads"
-	"github.com/hidal-go/hidalgo/kv"
+	"github.com/mcku/hidalgo/kv"
 	boom "github.com/tylertreat/BoomFilters"
 
 	"github.com/cayleygraph/cayley/graph"

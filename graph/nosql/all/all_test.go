@@ -5,10 +5,10 @@ package all
 import (
 	"testing"
 
-	_ "github.com/hidal-go/hidalgo/legacy/nosql/nosqltest/all"
+	_ "github.com/mcku/hidalgo/legacy/nosql/nosqltest/all"
 
 	"github.com/cayleygraph/cayley/graph/nosql/nosqltest"
-	hnosqltest "github.com/hidal-go/hidalgo/legacy/nosql/nosqltest"
+	hnosqltest "github.com/mcku/hidalgo/legacy/nosql/nosqltest"
 )
 
 func TestNoSQL(t *testing.T) {

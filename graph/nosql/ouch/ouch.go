@@ -1,5 +1,5 @@
 package ouch
 
 import (
-	_ "github.com/hidal-go/hidalgo/legacy/nosql/couch"
+	_ "github.com/mcku/hidalgo/legacy/nosql/couch"
 )
